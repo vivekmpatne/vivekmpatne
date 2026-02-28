@@ -1,5 +1,5 @@
 # 💫 About Me:
-1st Year B.E Student. 
+2nd Year B.E Student. 
 
 
 ## 🌐 Socials:
