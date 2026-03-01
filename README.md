@@ -31,10 +31,9 @@ I believe in consistency, depth, and long-term skill building.
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekmpatne&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekmpatne&theme=radical&utcOffset=8">
 
-
 </div>
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
