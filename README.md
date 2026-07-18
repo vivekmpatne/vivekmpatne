@@ -143,7 +143,7 @@ STATUS: Building → LeetCode + Projects + GitHub → Placement Ready 2028
 |---------|-------|--------|------|
 | 🎯 DSA Tracker | MERN + JWT Auth | ✅ Live | [tier3torise.vercel.app](https://tier3torise.vercel.app) |
 | 🔜 MERN Project 2 | React + Node + MongoDB | 🔨 Building | — |
-| 🔜 Portfolio Site | React + Tailwind | 📅 Jan 2027 | — |
+| 🔜 Portfolio Site | React + Tailwind | 📅 Jan 2027 | https://vivekpatne.me/ |
 
 ---
 
