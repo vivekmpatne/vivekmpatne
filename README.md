@@ -39,7 +39,7 @@ $ cat progress.log
 [■■■■░░░░░░░░░░░░]  DSA              →  Arrays → Hashing → Binary Search
 [■■░░░░░░░░░░░░░░]  MERN Stack       →  CSS → JS → React → Backend
 [■■■░░░░░░░░░░░░░]  English (spoken) →  B2 level → targeting C1
-[■■■■■░░░░░░░░░░░]  CGPA             →  8.48 | Maintaining 7.5+
+[■■■■■░░░░░░░░░░░]  CGPA             →  8.4
 
 STATUS: Building → LeetCode + Projects + GitHub → Placement Ready 2028
 ```
