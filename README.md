@@ -1,6 +1,12 @@
-<div align="center">
+ <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B;CSE-DS+%40+RNSIT+Bengaluru+%7C+2028;Aspiring+SDE+%7C+Problem+Solver;DSA+%2B+MERN+%2B+Consistency+%F0%9F%94%A5)](https://git.io/typing-svg)
+# Hi, I'm Vivek Patne
+
+**CSE (Data Science) Student @ RNSIT Bengaluru | Class of 2028**
+
+Aspiring Software Engineer | C++ & DSA | MERN Stack | IoT Projects
+
+[Portfolio](https://vivekpatne.me/) · [LinkedIn](https://www.linkedin.com/in/vivekpatnem/) · [Email](mailto:vivekpatnem@gmail.com)
 
 </div>
 
@@ -8,25 +14,44 @@
 
 ## `> whoami`
 
-```cpp
-struct Developer {
-    string name     = "Vivek Patne";
-    string college  = "RNSIT Bengaluru | CSE-DS | 2028";
-    string goal     = "SDE at a Product-Based Company";
-    string focus[]  = { "DSA", "MERN Stack", "System Design" };
-    string rule     = "Never Zero — show up every single day";
-};
-```
+I'm a Computer Science and Engineering student specializing in Data Science at RNS Institute of Technology, Bengaluru.
 
----
+I'm focused on strengthening my problem-solving skills, building practical full-stack applications, and understanding how software systems work end to end.
 
-## `> about_me`
+- Practising Data Structures and Algorithms using C++.
+- Building applications with JavaScript, React, Node.js, and Express.
+- Learning through hands-on development, database design, and API integration.
+- Exploring IoT systems and hardware-software integration.
+- Preparing for software engineering internships and off-campus opportunities.
 
-- 🎯 Targeting **SDE roles** at product-based companies
-- ⚡ Actively solving DSA — arrays, trees, graphs, DP and beyond
-- 🌐 Building full-stack apps with the **MERN stack**
-- 📚 Strengthening CS fundamentals — OS, DBMS, CN, OOPs
-- 📈 Consistent learner — tracking progress daily
+## `> featured_projects`
+
+### 1. Smart Drain Monitoring System
+
+An IoT project focused on monitoring drainage conditions and presenting sensor-related information.
+
+- **Focus:** IoT, sensor integration, hardware-software communication.
+- **Explore:** [Project overview on my portfolio](https://vivekpatne.me/)
+
+### 2. Student Management System
+
+A full-stack academic records management application built as a DBMS mini project.
+
+- **Frontend:** HTML, CSS, JavaScript.
+- **Backend:** Node.js and Express.js.
+- **Database:** MySQL.
+- **Features:** Student, subject, and marks management with CRUD operations.
+
+[Source Code](https://github.com/vivekmpatne/student-management-system) · [Frontend Demo](https://student-management-ui-two.vercel.app/) · [Backend API](https://student-management-backend-n02t.onrender.com/)
+
+### 3. HomeOS
+
+A project developed during Samsung Innovation Campus training, exploring connected-home functionality and hardware-software integration.
+
+- **Focus:** IoT concepts and connected-device development.
+- **Explore:** [Project overview on my portfolio](https://vivekpatne.me/)
+
+*See the project documentation for implementation details and setup requirements.*
 
 ---
 
@@ -34,41 +59,40 @@ struct Developer {
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Backend & Database**
+**Backend & Databases**
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## `> live_projects`
+## `> current_focus`
 
-| Project | Stack | Status | Link |
-|---------|-------|--------|------|
-| 🔜 Portfolio Site | React + Tailwind | 📅 Jan 2027 | https://vivekpatne.me/ |
+- Strengthening DSA fundamentals and independent problem-solving.
+- Building practical full-stack projects.
+- Improving code quality, API design, database handling, and deployment.
+- Documenting projects so that others can understand and reproduce them.
 
 ---
 
@@ -76,13 +100,10 @@ struct Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekpatnem)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vivekpatnem)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vivekpatnem)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekpatnem@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vm_patne)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vm_patne)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/__v1v3k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekpatnem/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekmpatne)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekpatne.me/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekpatnem@gmail.com)
 
 </div>
 
@@ -90,14 +111,8 @@ struct Developer {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*Learn consistently. Build thoughtfully. Improve continuously.*
 
-<br/>
-
-```
-Show up. Write code. Repeat.
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=vivekmpatne&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vivekmpatne&style=flat-square&color=0e75b6)
 
 </div>
