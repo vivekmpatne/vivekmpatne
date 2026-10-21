@@ -1,173 +1,116 @@
- <div align="center">
+\<div align="center">
 
-<a href="https://github.com/vivekmpatne">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=55E6FF&center=true&vCenter=true&width=650&height=55&lines=Hey%2C+I'm+Vivek+Patne+%F0%9F%91%8B;CSE-DS+%40+RNSIT+Bengaluru;Learning+%7C+Building+%7C+Improving;Aspiring+Software+Engineer" alt="Animated introduction" />
-</a>
+# Vivek Patne
 
-<br/>
+### Aspiring Software Engineer | CSE (Data Science) @ RNSIT Bengaluru | 2028
 
-<a href="https://vivekpatne.me/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=55E6FF" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/vivekpatnem/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=55E6FF" alt="LinkedIn"/>
-</a>
-<a href="mailto:vivekpatnem@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-0B1020?style=for-the-badge&logo=gmail&logoColor=55E6FF" alt="Email"/>
-</a>
+Building practical software, solving problems, and learning by implementation.
 
-<br/><br/>
-
-`C++` &nbsp; · &nbsp; `DSA` &nbsp; · &nbsp; `MERN` &nbsp; · &nbsp; `IoT`
-
-**Turning concepts into code, and code into projects.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekpatne.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekpatnem/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekpatne.dev@gmail.com)
 
 </div>
 
 ---
 
-## `01 / SYSTEM.IDENTITY`
+## About Me
 
-```yaml
-name: Vivek Patne
-education: B.E. CSE (Data Science)
-college: RNSIT, Bengaluru
-graduation: 2028
-career_goal: Software Engineering Internships
-currently_focusing:
-  - Data Structures and Algorithms in C++
-  - Full-stack web development
-  - Building practical software projects
-mindset: Learn deeply. Build consistently.
-```
+I'm a Computer Science and Engineering student specializing in Data Science at RNS Institute of Technology, Bengaluru.
 
-I'm a CSE (Data Science) student interested in solving problems, building useful applications, and understanding the engineering behind them.
+My focus is on developing strong problem-solving skills, building useful applications, and understanding the engineering behind reliable software.
 
-I focus on learning by implementing, debugging, documenting, and improving real projects rather than just collecting technologies.
+- Practising Data Structures and Algorithms using C++.
+- Building full-stack applications with JavaScript and the MERN ecosystem.
+- Exploring IoT and hardware-software integration through practical projects.
+- Strengthening software engineering fundamentals and preparing for internships.
 
-## `02 / PROJECTS.EXE`
+## Featured Projects
 
-<details open>
-<summary><strong>01. Smart Drain Monitoring System</strong> · IoT</summary>
+### Smart Drain Monitoring System
 
-A project focused on monitoring drainage conditions through an IoT-based system.
+An IoT project focused on drainage monitoring and sensor-based system integration.
 
-**Engineering focus**
-- Sensor and hardware-software integration.
-- Understanding how data moves through the monitoring system.
-- Documenting system behavior and implementation decisions.
+**Focus:** IoT, sensors, hardware-software communication.
 
-**Explore:** [Project overview](https://vivekpatne.me/)
+[Explore my portfolio](https://vivekpatne.me/)
 
-</details>
+### Student Management System
 
-<details open>
-<summary><strong>02. Student Management System</strong> · Full Stack</summary>
+A full-stack DBMS mini project for managing student records, subjects, and academic marks.
 
-A DBMS mini project for managing student records, subjects, and academic marks.
-
-| Layer | Technologies |
+| Component | Technology |
 |---|---|
 | Frontend | HTML, CSS, JavaScript |
 | Backend | Node.js, Express.js |
 | Database | MySQL |
-| Deployment | Vercel, Render, Railway |
 
-**Explore the project**
+**Features:** Student management, subject management, marks management, and CRUD operations.
 
-- [Source code](https://github.com/vivekmpatne/student-management-system)
-- [Frontend demo](https://student-management-ui-two.vercel.app/)
-- [Backend API](https://student-management-backend-n02t.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/vivekmpatne/student-management-system)
+[![Frontend Demo](https://img.shields.io/badge/Frontend_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://student-management-ui-two.vercel.app/)
+[![Backend API](https://img.shields.io/badge/Backend_API-475569?style=flat-square&logo=render&logoColor=white)](https://student-management-backend-n02t.onrender.com/)
 
-</details>
+### HomeOS
 
-<details>
-<summary><strong>03. HomeOS</strong> · Samsung Innovation Campus</summary>
+A project associated with Samsung Innovation Campus training, exploring connected-home concepts and IoT development.
 
-A training project associated with connected-home concepts and IoT development.
+**Focus:** Connected devices and hardware-software integration.
 
-**Focus:** Hardware-software integration and connected-device workflows.
+[Explore my portfolio](https://vivekpatne.me/)
 
-**Explore:** [Portfolio project section](https://vivekpatne.me/)
+*Refer to the project documentation for implementation details and setup requirements.*
 
-</details>
+---
 
-> Project descriptions reflect the intended scope. Check the linked documentation for implementation details, setup instructions, and current demo availability.
-
-## `03 / TECH.STACK`
+## Technical Skills
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" alt="C, C++, JavaScript"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,py&theme=light" alt="C, C++, JavaScript, Python"/>
 
-**FRONTEND**
+**Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React, Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=light" alt="HTML, CSS, React, Tailwind CSS"/>
 
-**BACKEND & DATABASES**
+**Backend and Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light" alt="Node.js, Express, MongoDB, MySQL"/>
 
-**DEVELOPER TOOLS**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman, Vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=light" alt="Git, GitHub, VS Code, Postman, Vercel"/>
 
 </div>
 
-## `04 / CURRENT.MISSION`
+## Current Focus
 
-- [ ] Strengthen DSA fundamentals and problem-solving independence.
-- [ ] Improve full-stack development through practical implementation.
-- [ ] Write cleaner, more maintainable code.
-- [ ] Document projects with architecture, setup instructions, and demos.
-- [ ] Prepare for software engineering internships and technical interviews.
+- Strengthening DSA fundamentals and independent problem-solving.
+- Building practical full-stack applications.
+- Improving API design, validation, database handling, and error management.
+- Writing clear documentation and making projects easier to reproduce.
+- Preparing for software engineering internships and technical interviews.
 
-## `05 / KNOWLEDGE.BASE`
+## Beyond the Code
 
-<details>
-<summary><strong>What I'm working to improve</strong></summary>
+I value consistent practice, thoughtful implementation, and learning from debugging and iteration.
 
-**Problem solving**
-- Patterns, edge cases, dry runs, and complexity analysis.
-- Writing solutions independently before looking at hints.
+My goal is to become a stronger engineer by understanding not only how to build something, but also why it works and how to improve it.
 
-**Software development**
-- REST API design and error handling.
-- Database relationships and validation.
-- Frontend-backend integration and deployment.
-- Git workflows, debugging, and project documentation.
-
-**Engineering fundamentals**
-- Operating systems, DBMS, computer networks, and OOP.
-- Understanding implementation choices instead of memorizing definitions.
-
-</details>
-
-## `06 / ESTABLISH.CONNECTION`
+---
 
 <div align="center">
 
-<a href="https://github.com/vivekmpatne">
-  <img src="https://img.shields.io/badge/GitHub-vivekmpatne-151B2C?style=for-the-badge&logo=github&logoColor=55E6FF" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/vivekpatnem/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-151B2C?style=for-the-badge&logo=linkedin&logoColor=55E6FF" alt="LinkedIn"/>
-</a>
-<a href="https://vivekpatne.me/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-151B2C?style=for-the-badge&logo=vercel&logoColor=55E6FF" alt="Portfolio"/>
-</a>
-<a href="mailto:vivekpatnem@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-151B2C?style=for-the-badge&logo=gmail&logoColor=55E6FF" alt="Email"/>
-</a>
+### Let's Connect
 
-<br/><br/>
+[GitHub](https://github.com/vivekmpatne) · [LinkedIn](https://www.linkedin.com/in/vivekpatnem/) · [Portfolio](https://vivekpatne.me/) · [Email](mailto:vivekpatnem@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=vivekmpatne&style=flat-square&color=55E6FF&label=PROFILE+VISITS" alt="Profile visits"/>
+<br/>
 
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=vivekmpatne&style=flat-square&color=2563EB&label=PROFILE+VISITS)
 
-`while (learning) { build(); improve(); repeat(); }`
+*Learn consistently. Build thoughtfully. Improve continuously.*
 
 </div>
