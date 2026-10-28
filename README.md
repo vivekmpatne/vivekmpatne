@@ -105,7 +105,7 @@ I'm a Computer Science and Engineering student specializing in Data Science at *
       </p>
       <p align="center">
         <a href="https://github.com/vivekmpatne" target="_blank" rel="noopener noreferrer"><b>📁 GitHub Profile</b></a> &nbsp;|&nbsp;
-        <a href="https://vivekpatne.me/" target="_blank" rel="noopener noreferrer"><b>🌐 Portfolio</b></a>
+        <a href="https://bengaluru-drainwatch.lovable.app/" target="_blank" rel="noopener noreferrer"><b>🌐 Live</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
